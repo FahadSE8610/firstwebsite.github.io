@@ -1,0 +1,30 @@
+.panda-card {
+    border: 0;
+}
+
+.panda-card-footer {
+    border: 0;
+    background-color: white;
+}
+
+.categories img {
+    width: 90px;
+}
+
+.panda-slide .carousel-item {
+    background: linear-gradient(to left, #5134d3, #49d5da);
+    ;
+    border-radius: 1em;
+}
+
+.panda-color {
+    background-color: #d8406d;
+}
+
+body {
+    background-color: #dadae2;
+}
+
+.btn:hover {
+    background: linear-gradient( to right, #f062fd, #7a7575);
+}
